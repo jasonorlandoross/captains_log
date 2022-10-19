@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa%7CRighteous');
+
+body {
+  background: url(https://proxymedia.woopic.com/api/v1/images/331%2FMATRIXXXXXXW0002526_BAN1_2424_NEWTV_HD.jpg);
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  background: green;
+  margin:0;
+  margin-bottom: .5em;
+  padding: .5em;
+  text-align: center;
+  color: greenyellow;
+}
+
+a {
+  color: greenyellow;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px green;
+  font-size: 1.5em;
+  background: rgb(14, 255, 18);
+}
+
+a:hover {
+  color: ghostwhite;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  color: rgb(245, 254, 255);
+}
+
+input[type=text] {
+  padding: .3em;
+}
+
+input[type=submit] {
+  padding: .3em;
+  color: rgb(255, 255, 255);
+  background: rgb(4, 202, 93);
+  font-size: 1em;
+  border-radius: 10%;
+}
